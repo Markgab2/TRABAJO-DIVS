@@ -1,6 +1,8 @@
 #CABECERA {background-color: rgb(167, 211, 212);}
-#PRINCIPAL{background-color: beige;}
-.articulo{background-color: rgb(249, 252, 160);}
-h2{color: darkkhaki;}
+#PRINCIPAL{background-color: rgb(242, 242, 176);}
+#articulo{margin:5px;background-color: rgb(255, 173, 190);}
+h2{color: rgb(173, 151, 151);}
 H1{color: brown;}
 body {background-color: dimgray;}
+P{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+#PIE{background-color: bisque;text-align:center;color:rgb(1, 4, 4);border-style:groove;border-width:medium;border-color: blueviolet;}
